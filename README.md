@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on CamOn XR Tech<br>🔧 I'm currently learning about Clean Architecture<br>🗣 Talk to me if you have an idea or project
+🚀 I'm SSR Software Developer<br>🔧<br>🗣 Talk to me if you have an idea or project
 
 
 ## 🌐 Contact Me:
